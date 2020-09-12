@@ -16,7 +16,7 @@
     "enmap-level": "^2.1.0",
     "fetch": "^1.1.0",
     "jimp": "^0.8.5",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^1.19.2",
     "opusscript": "0.0.7",
     "redlight": "0.0.1",
